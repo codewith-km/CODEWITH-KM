@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewith-km&label=Profile%20views&color=0e75b6&style=flat" alt="codewith-km" /> </p>
 
-- 🔭 I’m currently working on [My WEBSITE](http://www.codewithkm.com/)
+- 🔭 I’m currently working on [My WEBSITE](https://freecodingcodewithkm.netlify.app/)
 
 - 📝 I regularly write articles on [http://www.codewithkm.com/](http://www.codewithkm.com/)
 
